@@ -233,7 +233,9 @@ span {
 .section-how {
   padding: 0.96rem 0;
 }
-
+.step-number {
+  font-size: 8.6rem;
+}
 .step-img {
   width: 50%;
 }
