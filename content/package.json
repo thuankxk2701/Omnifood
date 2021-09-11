@@ -1,0 +1,22 @@
+{
+  "name": "omnifood",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuankxk2701/Omnifood.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thuankxk2701/Omnifood/issues"
+  },
+  "homepage": "https://github.com/thuankxk2701/Omnifood#readme",
+  "dependencies": {
+    "parcel": "^2.0.0-rc.0"
+  }
+}
